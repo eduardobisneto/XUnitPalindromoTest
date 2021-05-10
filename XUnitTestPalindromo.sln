@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestPalindromo", "XUnitTestPalindromo\XUnitTestPalindromo.csproj", "{E4DDAF6C-A981-4043-A8FE-F3FDE33DAC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{821BF376-15F4-4E56-A1A3-13F632CF2743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DDAF6C-A981-4043-A8FE-F3FDE33DAC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DDAF6C-A981-4043-A8FE-F3FDE33DAC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DDAF6C-A981-4043-A8FE-F3FDE33DAC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DDAF6C-A981-4043-A8FE-F3FDE33DAC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821BF376-15F4-4E56-A1A3-13F632CF2743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821BF376-15F4-4E56-A1A3-13F632CF2743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821BF376-15F4-4E56-A1A3-13F632CF2743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821BF376-15F4-4E56-A1A3-13F632CF2743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70D5EAE7-055E-4588-A6DD-28A84B0E8C1F}
+	EndGlobalSection
+EndGlobal

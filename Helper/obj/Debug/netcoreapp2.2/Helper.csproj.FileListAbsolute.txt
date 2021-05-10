@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\bin\Debug\netcoreapp2.2\Helper.deps.json
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\bin\Debug\netcoreapp2.2\Helper.dll
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\bin\Debug\netcoreapp2.2\Helper.pdb
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.AssemblyInfo.cs
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.dll
+C:\Users\Eduardo\Source\repos\XUnitTestPalindromo\Helper\obj\Debug\netcoreapp2.2\Helper.pdb
